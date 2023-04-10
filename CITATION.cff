@@ -4,6 +4,8 @@ authors:
 - family-names: "Yadav"
   given-names: "Mahima"
   orcid: "https://orcid.org/0009-0006-4543-6256"
+- family-names: "Kumar"
+given-names: "Ayush"
 title: "Transliteration-using-image-processing"
 version: 1.0.
 doi: 10.5281/zenodo.7813817
