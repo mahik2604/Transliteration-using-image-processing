@@ -1,4 +1,7 @@
 # Transliteration-using-image-processing
+
+[![DOI](https://zenodo.org/badge/625955329.svg)](https://zenodo.org/badge/latestdoi/625955329)
+
 Transliteration of hindi script to english, using hindi text images.
 
 This code performs Hindi to English text transliteration using Image processing and transliteration.
