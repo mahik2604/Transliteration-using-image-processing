@@ -55,4 +55,4 @@ Feel free to contribute to this project by forking and creating a pull request. 
 **License**
 
 
-This project is licensed under the [MIT License]().
+This project is licensed under the [MIT License](https://github.com/mahik2604/Transliteration-using-image-processing/blob/main/LICENSE).
